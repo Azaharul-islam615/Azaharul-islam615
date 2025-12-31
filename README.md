@@ -58,7 +58,7 @@ I’m Md. Azaharul, a MERN Stack Developer passionate about building responsive 
   </a>
 
   <a href="https://twitter.com/YourTwitterHandle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Facebook&logoColor=white" />
   </a>
 </p>
 
