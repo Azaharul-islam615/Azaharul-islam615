@@ -67,9 +67,7 @@ I’m Md. Azaharul, a MERN Stack Developer passionate about building responsive 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- Total Contributions -->
-   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Azaharul-islam615&show_icons=true&theme=radical)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Azaharul-islam615&layout=compact&theme=radical)
+
 
 
   <!-- GitHub Streak Stats -->
