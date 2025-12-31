@@ -17,6 +17,8 @@ I’m Md. Azaharul, a MERN Stack Developer passionate about building responsive 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
   
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/tailwindcss.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
   
