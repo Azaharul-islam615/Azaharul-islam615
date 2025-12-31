@@ -50,19 +50,17 @@ I’m Md. Azaharul, a MERN Stack Developer passionate about building responsive 
 
 <p align="center">
   <a href="https://github.com/Azaharul-islam615" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Azaharul--islam615-181717?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
   <a href="https://www.linkedin.com/in/azaharul-islam615" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Azaharul--Islam-0A66C2?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
   <a href="https://twitter.com/YourTwitterHandle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-Azaharul--Islam-1DA1F2?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
-
-
 
 
 ## 📊 GitHub Stats
