@@ -36,7 +36,7 @@ I’m Md. Azaharul, a MERN Stack Developer passionate about building responsive 
 
 ## 📊 GitHub Stats
 <p align="center">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Azaharul-islam615&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Azaharul-islam615&theme=radical&hide_border=true)](https://git.io/streak-stats)
 </p>
 
 
