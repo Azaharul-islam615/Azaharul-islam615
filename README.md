@@ -9,6 +9,14 @@
 
 I’m Md. Azaharul, a MERN Stack Developer passionate about building responsive and scalable web applications. I love working with modern JavaScript technologies and continuously improving my skills. Currently focused on learning advanced full-stack development and real-world project building.
 
+## 🚀 Current Activities
+
+- I am exploring **Next.js** and building modern React applications.
+- I’m working on a **tourism website** project to enhance my MERN stack skills.
+- Learning **advanced full-stack development** concepts and real-world project deployment.
+- Contributing to **open-source projects** on GitHub.
+
+
 
 
 
