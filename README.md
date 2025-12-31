@@ -6,8 +6,7 @@
  # Hi there, I'm Md.Azaharul! 👋
 ### MERN Stack Web Developer
 
-  ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Azaharul-islam615.visitor-badge&color=00cf00)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Azaharul-islam615)
+ 
 </div>
  
 
