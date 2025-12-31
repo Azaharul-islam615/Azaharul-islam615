@@ -12,7 +12,7 @@ I’m Md. Azaharul, a MERN Stack Developer passionate about building responsive 
 ## 🚀 Current Activities
 
 - I am exploring **Next.js** and building modern React applications.
-- I’m working on a **tourism website** project to enhance my MERN stack skills.
+- I’m working on a **contesthub website** project to enhance my MERN stack skills.
 - Learning **advanced full-stack development** concepts and real-world project deployment.
 - Contributing to **open-source projects** on GitHub.
 
@@ -58,7 +58,7 @@ I’m Md. Azaharul, a MERN Stack Developer passionate about building responsive 
 
   </a>
 
-  <a href="https://twitter.com/YourTwitterHandle" target="_blank">
+  <a href="https://www.facebook.com/soiyod.azaharul.islam" target="_blank">
     <img src="https://img.shields.io/badge/facebook-1DA1F2?style=for-the-badge&logo=Facebook&logoColor=white" />
   </a>
 </p>
