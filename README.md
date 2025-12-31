@@ -1,7 +1,7 @@
 <img width="1536" height="686" alt="github-banner" src="https://github.com/user-attachments/assets/8bac3735-a3d9-4977-bcc7-d0e5cbd38d97" />
 
 
-  Hi, I’m Md. Azaharul
+  Hi, I’m Md. Azaharul <br>
  💼 MERN Stack Developer
 
 
@@ -51,7 +51,7 @@ I’m Md. Azaharul, a MERN Stack Developer passionate about building responsive 
 
   <!-- Top Languages -->
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azaharul-islam615&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azaharul-islam615&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 
