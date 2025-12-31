@@ -54,7 +54,8 @@ I’m Md. Azaharul, a MERN Stack Developer passionate about building responsive 
   </a>
 
   <a href="https://www.linkedin.com/in/azaharul-islam615" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedIn&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+
   </a>
 
   <a href="https://twitter.com/YourTwitterHandle" target="_blank">
