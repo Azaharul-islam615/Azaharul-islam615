@@ -75,6 +75,7 @@ I’m Md. Azaharul, a MERN Stack Developer passionate about building responsive 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Azaharul-islam615&theme=radical&hide_border=true" alt="GitHub Streak" />
 
   <!-- Top Languages -->
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azaharul-islam615&layout=compact)
   
 
 </p>
