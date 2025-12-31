@@ -1,13 +1,13 @@
 <img width="1536" height="686" alt="github-banner" src="https://github.com/user-attachments/assets/8bac3735-a3d9-4977-bcc7-d0e5cbd38d97" />
 
 <div align="center">
-  <img src="https://i.ibb.co.com/VWgXx0XG/White-Clean-Minimalist-Online-Business-Facebook-Cover.png" width="100%" />
+ 
 
- # Hi there, I'm Junayed Ahmmad! 👋
+ # Hi there, I'm Md.Azaharul! 👋
 ### MERN Stack Web Developer
 
-  ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=junayed17.visitor-badge&color=00cf00)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/junayed17)
+  ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Azaharul-islam615.visitor-badge&color=00cf00)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Azaharul-islam615)
 </div>
  
 
