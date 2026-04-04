@@ -70,7 +70,7 @@ I’m Md. Azaharul, a MERN Stack Developer passionate about building responsive 
 </p>
 
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 
 <p align="center">
