@@ -94,6 +94,16 @@ I’m Md. Azaharul, a MERN Stack Developer passionate about building responsive 
 
 </p>
 
+<div align="center">
+
+### 💝 Thanks for visiting! 
+
+![Profile Views](https://komarev.com/ghpvc/?username=ShazidMashrafi&style=for-the-badge&color=brightgreen)
+
+
+
+</div>
+
 
 
 
