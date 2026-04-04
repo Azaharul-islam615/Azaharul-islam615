@@ -90,6 +90,10 @@ I’m Md. Azaharul, a MERN Stack Developer passionate about building responsive 
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Azaharul-islam615&theme=radical&hide_border=true" alt="GitHub Streak" />
 
+  <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Azaharul-islam615&custom_title=Contribution%20Graph&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
+</div>
+
 
   
 
