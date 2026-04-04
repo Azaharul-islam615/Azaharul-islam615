@@ -54,21 +54,24 @@ I’m Md. Azaharul, a MERN Stack Developer passionate about building responsive 
 
 ## 🔗 Connect with Me
 
-<p align="center">
-  <a href="https://github.com/Azaharul-islam615" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<div align="center">
 
-  <a href="https://www.linkedin.com/in/azaharul-islam-441b903a3/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+### 🎯 Main Platforms
+[![Website](https://img.shields.io/badge/🌐_Website-4285F4?style=for-the-badge&logoColor=white)](https://mdazaharul.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azaharul-islam/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdazaharul725@gmail.com)
 
-  </a>
 
-  <a href="https://www.facebook.com/soiyod.azaharul.islam" target="_blank">
-    <img src="https://img.shields.io/badge/facebook-1DA1F2?style=for-the-badge&logo=Facebook&logoColor=white" />
-  </a>
-</p>
 
+### 📱 Social Media
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/soiyod.azaharul.islam)
+
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://web.telegram.org/k/)
+
+
+
+</div>
 
 ## 📊 GitHub Analytics
 
